@@ -1,4 +1,4 @@
-# 🚀 ESP32 Blink Project
+#  ESP32 Blink Project
 
 ![ESP32](https://img.shields.io/badge/Board-ESP32-blue)
 ![Arduino](https://img.shields.io/badge/Platform-Arduino_IDE-green)
@@ -8,7 +8,7 @@ A simple ESP32 project that blinks an LED every second using GPIO2.
 
 ---
 
-## 📋 Hardware Required
+## Hardware Required
 
 | Component | Quantity |
 |------------|-----------|
@@ -57,7 +57,7 @@ A simple ESP32 project that blinks an LED every second using GPIO2.
 
 ---
 
-## 💻 Arduino Code
+##  Arduino Code
 
 ```cpp
 const int LED_PIN = 2;
@@ -89,20 +89,20 @@ ESP32-Blink/
 
 ---
 
-## 🎯 Output
+## Output
 
 - LED blinks every 1 second.
 - Demonstrates basic GPIO control using ESP32.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Yashwanth R**
 
-Electronics & Communication Engineering  
+  
 AIoT | Embedded Systems | IoT Developer
 
 ---
 
-⭐ If you found this project useful, give it a star on GitHub.
+ If you found this project useful, give it a star on GitHub.
