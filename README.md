@@ -20,7 +20,7 @@ A simple ESP32 project that blinks an LED every second using GPIO2.
 
 ---
 
-## 🔌 Circuit Diagram
+##  Circuit Diagram
 
 ```text
             ESP32
@@ -75,17 +75,6 @@ void loop() {
 }
 ```
 
----
-
-## 📂 Project Structure
-
-```text
-ESP32-Blink/
-│
-├── blink.ino
-├── README.md
-└── images/
-```
 
 ---
 
